@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudyLab</string>
+    <string name="cached_question_notice">You are using the latest set saved on this device because the service could not be reached.</string>
+</resources>
